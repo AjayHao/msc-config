@@ -1,2 +1,2 @@
-# msc-config
-微服务中心配置文件
+# msc-config-repo
+微服务中心配置文件目录
