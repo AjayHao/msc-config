@@ -11,7 +11,7 @@ swagger:
   switch: true
   config:
     basePackage: com.ajayhao.mslab.stock
-    title: Spring Boot中使用Swagger2构建RESTful APIs,动态刷新
+    title: Spring Boot中使用Swagger2构建RESTful APIs,动态
     description: Micro Service Lab,/mslab/stock
     version: 1.0
 
