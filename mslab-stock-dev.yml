@@ -16,6 +16,7 @@ swagger:
     version: 1.0
 
 # 聚合数据下游url
-juheData:
-  juheKey: dc585fdc8fc24cebbad73134920f9e73
-  juheServiceUrl: http://web.juhe.cn:8080/finance/stock/hs?gid={gid}&key={key}
+juhe:
+  service:
+    juheKey: dc585fdc8fc24cebbad73134920f9e73
+    juheServiceUrl: http://web.juhe.cn:8080/finance/stock/hs?gid={gid}&key={key}
