@@ -1,2 +1,4 @@
 # Eureka 注册中心地址
-EUREKA_SERVICE_URL=http://192.168.254.132:8761/eureka/
+EUREKA_SERVICE_URL=http://192.168.254.133:8761/eureka/
+## home
+#EUREKA_SERVICE_URL=http://192.168.254.132:8761/eureka/
