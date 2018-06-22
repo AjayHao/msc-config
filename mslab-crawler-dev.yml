@@ -1,4 +1,12 @@
-# 数据库
+#元素征信配置
+elecredit:
+  cfg:
+    userId: Z2HO3fdC
+    userKey: jeEZwWbR
+    elsaicUrl: http://open.elecredit.com/elsaic/?isjson=1
+    getEntIdUrl: http://open.elecredit.com/getentid/
+
+#数据库
 jdbc:
   oracle:
     driver: oracle.jdbc.driver.OracleDriver
