@@ -5,6 +5,8 @@ elecredit:
     userKey: jeEZwWbR
     elsaicUrl: http://open.elecredit.com/elsaic/?isjson=1
     getEntIdUrl: http://open.elecredit.com/getentid/
+    mohuUrl: http://open.elecredit.com/mohu/
+    comnameUrl: http://open.elecredit.com/comname/
 
 #数据库
 jdbc:
