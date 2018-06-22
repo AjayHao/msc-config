@@ -7,7 +7,7 @@ elecredit:
     getEntIdUrl: http://open.elecredit.com/getentid/
     mohuUrl: http://open.elecredit.com/mohu/
     comnameUrl: http://open.elecredit.com/comname/
-    newsUrl: http://open.elecredit.com/news/
+    newGuoTaiUrl: http://open.elecredit.com/new_guotai/
 
 #数据库
 jdbc:
