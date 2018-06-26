@@ -8,6 +8,7 @@ elecredit:
     mohuUrl: http://open.elecredit.com/mohu/
     comnameUrl: http://open.elecredit.com/comname/
     newGuoTaiUrl: http://open.elecredit.com/new_guotai/
+    saicInvUrl: http://open.elecredit.com/saicinv/
 
 #数据库
 jdbc:
